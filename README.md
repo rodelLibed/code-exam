@@ -1,3 +1,9 @@
-Run
-Frontend - cd/frontend run "npm i and npm run dev"
-Backend - cd/backend run "npm i, npx prisma migrate and npm run dev"
+First Run: 
+cd/backend
+- npm i
+- npx prisma generate
+- npm run dev
+
+  cd/frontend
+  - npm i
+  - npm run dev
