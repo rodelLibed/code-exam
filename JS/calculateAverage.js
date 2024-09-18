@@ -13,4 +13,4 @@ function calculateAverageGrade(student) {
   return parseFloat(average.toFixed(2));
 }
 
-console.log(calculateAverageGrade(student)); // Output: 85.00
+console.log(calculateAverageGrade(student)); 
